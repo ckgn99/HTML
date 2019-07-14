@@ -1,7 +1,3 @@
-
-
-
-<body>
 <h1>HTML</h1>
 <ol>
   <li><a href="1.html">Outline of HTML</a></li>
