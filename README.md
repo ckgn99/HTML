@@ -1,11 +1,4 @@
 
-<!doctype html>
-
-<head>
-<html>
-<title>HTML</title>
-<meta charset="utf-8">
-</head>
 
 
 <body>
